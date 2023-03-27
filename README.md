@@ -6,7 +6,8 @@ Learn to build it, then break it!
 # Table of contents
 
 1. [API pentesting](api-pentesting.md)
-2. [Main sources](main-sources.md)
+2. [Courses & Trainings](courses-and-trainings.md)
+3. [Main sources](main-sources.md)
 
 ---
 
