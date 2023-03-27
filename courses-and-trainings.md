@@ -32,8 +32,10 @@ ___
 ___ 
 <details>
 <summary>Infrastructure CheatSheet</summary>
-![](images/honeypot.png?raw=true)
+![image](https://github.com/Lzmog/appsec-wiki/blob/main/images/honeypot.png?raw=true)
 </details>
+
+![image](https://github.com/Lzmog/appsec-wiki/blob/main/images/honeypot.png?raw=true)
 
 ### Kubernetes
 ___
