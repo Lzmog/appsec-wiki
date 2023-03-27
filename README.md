@@ -7,7 +7,9 @@ Learn to build it, then break it!
 
 1. [API pentesting](api-pentesting.md)
 2. [Courses & Trainings](courses-and-trainings.md)
-3. [Main sources](main-sources.md)
+3. [Security Tools](security-tools.md)
+4. [Security Links](security-links.md)
+5. [Main sources](main-sources.md)
 
 ---
 
