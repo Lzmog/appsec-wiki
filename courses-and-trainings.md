@@ -32,7 +32,7 @@ ___
 ___ 
 <details>
 <summary>Infrastructure CheatSheet</summary>
-![image](https://github.com/Lzmog/appsec-wiki/blob/main/images/htb-tree.png)
+![Untitled](https://github.com/Lzmog/appsec-wiki/blob/main/images/htb-tree.png)
 </details>
 
 ### Kubernetes
