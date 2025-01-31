@@ -11,6 +11,11 @@
 * https://cloudseclist.com/
 * https://securitypills.news/
 
+### LT Disclosures
+___
+* [full-disclosure](https://full-disclosure.eu/)
+* [Jaroslav Lobačevski](https://blog.devsecurity.eu/)
+
 # Podcasts
 * Darknet diaries
 * Malicious life
@@ -39,5 +44,14 @@
 * [Gitlab seismic shift in application security](https://learn.gitlab.com/c/gitlab-seismic-shift?x=u5RjB_)
 * [Securing the Software Supply Chain: Recommended Practices Guide for Developers](https://media.defense.gov/2022/Sep/01/2003068942/-1/-1/0/ESF_SECURING_THE_SOFTWARE_SUPPLY_CHAIN_DEVELOPERS.PDF)
 
+### AppSec flows/guide
+___
+* [RECOMMENDED | How to Achieve Application & Cloud Security Resilience](https://betterappsec.com/how-to-scale-application-cloud-security-f31503182517)
+* [Building AppSec Pipeline for Continuous Visibility](https://medium.com/chargebee-engineering/building-appsec-pipeline-for-continuous-visibility-d430beb0a78f)
+* [Democratizing Security: Application Security Scanning](https://betterappsec.com/democratizing-security-application-security-scanning-acf56a5039ae)
+
+
+
 # Useful
 * [Taking notes with obsidian basics](https://www.youtube.com/watch?v=d3e7GWsqoU0)
+

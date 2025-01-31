@@ -7,21 +7,9 @@
 
 # <div align="center">Security Links</div>
 
-### LT Disclosures
-___
-* [full-disclosure](https://full-disclosure.eu/)
-* [Jaroslav Lobačevski](https://blog.devsecurity.eu/)
-
 ### All in one
 ___
 * [whitebox pentesting tech techniques](https://github.com/0xmaximus/Galaxy-Bugbounty-Checklist)
-
-### AppSec flows/guide
-___
-* [RECOMMENDED | How to Achieve Application & Cloud Security Resilience](https://betterappsec.com/how-to-scale-application-cloud-security-f31503182517)
-* [Building AppSec Pipeline for Continuous Visibility](https://medium.com/chargebee-engineering/building-appsec-pipeline-for-continuous-visibility-d430beb0a78f)
-* [Democratizing Security: Application Security Scanning](https://betterappsec.com/democratizing-security-application-security-scanning-acf56a5039ae)
-
 
 ### AWS
 ___
