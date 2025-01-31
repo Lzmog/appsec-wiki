@@ -50,8 +50,6 @@ ___
 * [Building AppSec Pipeline for Continuous Visibility](https://medium.com/chargebee-engineering/building-appsec-pipeline-for-continuous-visibility-d430beb0a78f)
 * [Democratizing Security: Application Security Scanning](https://betterappsec.com/democratizing-security-application-security-scanning-acf56a5039ae)
 
-
-
 # Useful
 * [Taking notes with obsidian basics](https://www.youtube.com/watch?v=d3e7GWsqoU0)
 

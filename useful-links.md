@@ -22,11 +22,14 @@ ___
 ___
 * [Brutus bruteforce lists](https://github.com/tasooshi/brutas)
 
+### Cookies
+---
+* [Stealing HttpOnly cookies with the cookie sandwich technique](https://portswigger.net/research/stealing-httponly-cookies-with-the-cookie-sandwich-technique)
+
 ### Cheatsheets
 ___
 * [(2023 EDITION) Cross-site scripting (XSS) cheat sheet](https://portswigger.net/web-security/cross-site-scripting/cheat-sheet)
 * [Awesome Redteam cheatsheet](https://github.com/RistBS/Awesome-RedTeam-Cheatsheet)
-* [DevSecOps playbook](https://github.com/6mile/DevSecOps-Playbook)
 * [Thick client with GUI hacking](https://www.netspi.com/blog/technical/thick-application-penetration-testing/introduction-to-hacking-thick-clients-part-1-the-gui/)
 * [PrivEsc in Windows](https://delinea.com/blog/windows-privilege-escalation)
 * [Oauth cheatsheet](https://github.com/koenbuyens/oauth-2.0-security-cheat-sheet)
@@ -35,6 +38,12 @@ ___
 ### Cloud
 ___
 * [SLSA is a set of standards and technical controls you can adopt to improve artifact integrity](https://cloudsecdocs.com/devops/pipelines/supply_chain/slsa/)
+
+### DevSecOps
+---
+* [DevSecOps playbook](https://github.com/6mile/DevSecOps-Playbook)
+* [SAST in Secure SDLC: 3 reasons to integrate it in a DevSecOps pipeline](https://pvs-studio.com/en/blog/posts/0937/)
+* [DevSecOps - develop with security team(s)](https://github.com/Azure/FTALive-Sessions/tree/main/content/devops/devsecops)
 
 ### Docker
 ___
@@ -84,6 +93,10 @@ ___
 ### Supply chain
 ___
 * [Securing the Supply Chain of Nothing](https://swagitda.com/blog/posts/securing-the-supply-chain-of-nothing/)
+
+### Time Attacks
+---
+* [Fun with Timing Attacks](https://ostro.ws/post-timing-attacks)
 
 ### Threat modelling
 ___

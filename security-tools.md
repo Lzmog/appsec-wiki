@@ -13,13 +13,18 @@
 ___
 * [2FA Bypass Techniques mindmap](https://www.mindmeister.com/1736437018/2fa-bypass-techniques?fullscreen=1)
 
-### Automated Testing Framework
-* [OWASP Nettacker - Open-Source Vulnerability Scanner - Vulnerability Management](https://github.com/OWASP/Nettacker?utm_source=hivefive&utm_medium=email)
+### AI
+---
+* [User-friendly AI Interface (Supports Ollama, OpenAI API, ...)](https://github.com/open-webui/open-webui)
+* [Lightpanda: the headless browser designed for AI and automation](https://github.com/lightpanda-io/browser)
 
 ### API
 ___
 * [Metlo is an open-source API security platform](https://github.com/metlo-labs/metlo) (Recommended to test it)
 * [API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist)
+
+### Automated Testing Framework
+* [OWASP Nettacker - Open-Source Vulnerability Scanner - Vulnerability Management](https://github.com/OWASP/Nettacker?utm_source=hivefive&utm_medium=email)
 
 ### AWS
 ___

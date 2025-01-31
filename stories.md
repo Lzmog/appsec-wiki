@@ -17,6 +17,7 @@
 * [Fuzzing ClamAV](https://foxglovesecurity.com/2016/06/13/finding-pearls-fuzzing-clamav/)
 * [Web Hackers vs. The Auto Industry: Critical Vulnerabilities in Ferrari, BMW, Rolls Royce, Porsche, and More](https://samcurry.net/web-hackers-vs-the-auto-industry/?utm_source=hivefive&utm_medium=email)
 * [SH key injection in Google Cloud Compute Engine - Google VRP](https://blog.stazot.com/ssh-key-injection-google-cloud/?utm_source=hivefive&utm_medium=email)
+* [Unique 0-click deanonymization attack targeting Signal, Discord and hundreds of platform](https://gist.github.com/hackermondev/45a3cdfa52246f1d1201c1e8cdef6117)
 
 # misc and productivity articles:
 
@@ -44,10 +45,18 @@ ___
 * ^ Sending: https://blog.packagecloud.io/monitoring-tuning-linux-networking-stack-sending-data/
 * ^ Receiving: https://blog.packagecloud.io/monitoring-tuning-linux-networking-stack-receiving-data/
 
+### Games
+---
+* [Reverse Engineering Call Of Duty Anti-Cheat](https://ssno.cc/posts/reversing-tac-1-4-2025/)
+
 ### WebApp
 ___
 * [How To Hack Web Applications in 2022: Part 1](https://labs.detectify.com/2022/05/16/how-to-hack-web-applications/)
 * [How To Hack Web Applications in 2022: Part 2](https://labs.detectify.com/2022/08/05/how-to-hack-web-applications-in-2022/)
 * [How we have pwned Root-Me in 2022 | Adminke](https://spawnzii.github.io/posts/2022/07/how-we-have-pwned-root-me-in-2022/)
 * [Top 10 web hacking techniques of 2022](https://portswigger.net/research/top-10-web-hacking-techniques-of-2022)
+
+### Other
+---
+* [Creating a highly-integrated open-source laptop from scratch. Power in your hands.](https://www.byran.ee/posts/creation/)
 
