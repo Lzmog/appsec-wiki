@@ -33,6 +33,7 @@ ___
 * [Thick client with GUI hacking](https://www.netspi.com/blog/technical/thick-application-penetration-testing/introduction-to-hacking-thick-clients-part-1-the-gui/)
 * [PrivEsc in Windows](https://delinea.com/blog/windows-privilege-escalation)
 * [Oauth cheatsheet](https://github.com/koenbuyens/oauth-2.0-security-cheat-sheet)
+* [Doyensec OAuth CheatSheet](https://doyensec.com/resources/Doyensec_OAuth_CheatSheet.pdf)
 * [BurpSuite](https://github.com/rinetd/BurpSuite-1/blob/master/CheatSheet.md)
 
 ### Cloud
@@ -85,6 +86,7 @@ ___
 ### Pentesting
 ___
 * [Owasp top 10 testing API security](https://www.veracode.com/blog/managing-appsec/testing-owasps-top-10-api-security-vulnerabilities-part-1)
+* [Build Your Own Offensive Security Lab A Step-by-Step Guide with Ludus](https://xphantom.nl/posts/Offensive-Security-Lab)
 
 ### STRIDE
 ___
@@ -103,6 +105,7 @@ ___
 * [Awesome threat modeling](https://github.com/hysnsec/awesome-threat-modelling)
 * [Applying Systemic Threat Modelling to a Complex System](https://medium.com/nationwide-technology/threat-modelling-for-securing-complex-systems-a-step-by-step-guide-87dc248c8c08)
 * [Threat modeling - Google Cloud Storage, good examples](https://research.nccgroup.com/2023/01/31/threat-modelling-cloud-platform-services-by-example-google-cloud-storage/)
+* [How to Start Threat Modelling in AWS](https://awssecuritydigest.com/articles/threat-modelling-in-aws)
 
 ### WebSec
 ___
@@ -113,3 +116,5 @@ ___
 ___
 * [Pass-the-Challenge: Defeating Windows Defender Credential Guard](https://research.ifcr.dk/pass-the-challenge-defeating-windows-defender-credential-guard-31a892eee22)
 * [Windows-Privilege-Escalation](https://github.com/Ignitetechnologies/Windows-Privilege-Escalation)
+* [Stage, But Verify | simple shellcode injector to test our stager against Defender](https://hulkops.gitbook.io/blog/red-team/stage-but-verify)
+* 

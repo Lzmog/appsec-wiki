@@ -46,6 +46,8 @@ ___
 ### Fuzzers
 ___
 * [Black box fuzzer for web applications](https://github.com/Brum3ns/firefly)
+* [A collection of Turbo Intruder scripts, specifically ones which emulate the 4 main attack types in Burp Intruder (Sniper, Battering ram, Pitchfork, and Cluster bomb).](https://github.com/Tib3rius/Turbo-Intruder-Scripts)
+* [FuzzyAI Fuzzer](https://github.com/cyberark/FuzzyAI)
 
 ### Kubernetes
 ___
@@ -113,3 +115,8 @@ ___
 * [Ransomware simulator](https://github.com/NextronSystems/ransomware-simulator)
 * [Vulnerable-Code-Snippets](https://github.com/snoopysecurity/Vulnerable-Code-Snippets)
 * [WebHackersWeapons](https://github.com/hahwul/WebHackersWeapons)
+* [experimental EDR evasion framework for research purposes](https://github.com/fin3ss3g0d/StoneKeeper)
+* [modular G-Suite password sprayer with threading](https://github.com/helviojunior/sprayshark)
+* [HExHTTP is a tool designed to perform tests on HTTP headers and analyze the results to identify vulnerabilities and interesting behaviors.](https://github.com/c0dejump/HExHTTP)
+* [Fast virtual host scanner that finds hidden vhosts and identifies which ones are only accessible through Host header manipulation.](https://github.com/bebiksior/vhosts-go)
+* [A web honeypot library to create vulnerable-looking endpoints to detect and mislead attackers](https://github.com/utkusen/baitroute)

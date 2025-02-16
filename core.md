@@ -16,6 +16,10 @@ ___
 * [full-disclosure](https://full-disclosure.eu/)
 * [Jaroslav Lobačevski](https://blog.devsecurity.eu/)
 
+### Disclosures
+---
+* [Paulos Yibelo - hacking stuff](https://www.paulosyibelo.com/)
+
 # Podcasts
 * Darknet diaries
 * Malicious life

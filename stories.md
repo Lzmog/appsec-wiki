@@ -18,6 +18,7 @@
 * [Web Hackers vs. The Auto Industry: Critical Vulnerabilities in Ferrari, BMW, Rolls Royce, Porsche, and More](https://samcurry.net/web-hackers-vs-the-auto-industry/?utm_source=hivefive&utm_medium=email)
 * [SH key injection in Google Cloud Compute Engine - Google VRP](https://blog.stazot.com/ssh-key-injection-google-cloud/?utm_source=hivefive&utm_medium=email)
 * [Unique 0-click deanonymization attack targeting Signal, Discord and hundreds of platform](https://gist.github.com/hackermondev/45a3cdfa52246f1d1201c1e8cdef6117)
+* [How we built an AppSec AI that security researchers agree with 96% of the time](https://semgrep.dev/blog/2025/building-an-appsec-ai-that-security-researchers-agree-with-96-of-the-time/)
 
 # misc and productivity articles:
 

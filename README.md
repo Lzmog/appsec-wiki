@@ -6,11 +6,15 @@ Learn to build it, then break it!
 # Table of contents
 
 1. [API pentesting](api-pentesting.md)
-2. [Core](core.md)
-3. [Courses & Trainings](courses-and-trainings.md)
-4. [Useful Links](useful-links.md)
-5. [Security Tools](security-tools.md)
-6. [Stories](stories.md)
+2. [AI + Security](ai+security.md)
+3. [Books](books.md)
+4. [Core](core.md)
+5. [Courses & Trainings](courses-and-trainings.md)
+6. [Page markers from books](page-markers-from-books.md)
+7. [Security Tools](security-tools.md)
+8. [Stories](stories.md)
+9. [Useful Links](useful-links.md)
+
 
 ---
 
