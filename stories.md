@@ -60,4 +60,4 @@ ___
 ### Other
 ---
 * [Creating a highly-integrated open-source laptop from scratch. Power in your hands.](https://www.byran.ee/posts/creation/)
-
+* [My team's intern just found a critical bug by shitposting in our codebase](https://www.reddit.com/r/csMajors/comments/1i7v7hg/my_teams_intern_just_found_a_critical_bug_by/)
