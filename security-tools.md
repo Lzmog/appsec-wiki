@@ -13,11 +13,6 @@
 ___
 * [2FA Bypass Techniques mindmap](https://www.mindmeister.com/1736437018/2fa-bypass-techniques?fullscreen=1)
 
-### AI
----
-* [User-friendly AI Interface (Supports Ollama, OpenAI API, ...)](https://github.com/open-webui/open-webui)
-* [Lightpanda: the headless browser designed for AI and automation](https://github.com/lightpanda-io/browser)
-
 ### API
 ___
 * [Metlo is an open-source API security platform](https://github.com/metlo-labs/metlo) (Recommended to test it)
@@ -36,6 +31,7 @@ ___
   * [How to implement](https://research.nccgroup.com/2022/08/25/tool-release-jwt-reauth/)
 * [Semgrepper](https://github.com/gand3lf/semgrepper?utm_source=hivefive&utm_medium=email)
 * [burp-rest-api](https://github.com/vmware/burp-rest-api)
+* [Burp Suite extension for testing Passkey systems](https://github.com/siamthanathack/Passkey-Raider)
 
 ### Directories, Folders and Files
 ___
@@ -49,10 +45,19 @@ ___
 * [A collection of Turbo Intruder scripts, specifically ones which emulate the 4 main attack types in Burp Intruder (Sniper, Battering ram, Pitchfork, and Cluster bomb).](https://github.com/Tib3rius/Turbo-Intruder-Scripts)
 * [FuzzyAI Fuzzer](https://github.com/cyberark/FuzzyAI)
 
+### Java
+___
+* [A proof-of-concept tool for generating payloads that exploit unsafe Java object deserialization.](https://github.com/frohoff/ysoserial)
+
 ### Kubernetes
 ___
 * [Kubestroyer aims to exploit Kubernetes clusters misconfigurations and be the swiss army knife of your Kubernetes pentests
 ](https://github.com/Rolix44/Kubestroyer)
+
+### Multiple Scripts
+___
+* [Enumaration, exploitation, brute force, shells, exploits](https://github.com/jwardsmith/Penetration-Testing)
+* [cheatSheatForPentest](https://github.com/savenas/cheatSheatForPentest)
 
 ### Nginx
 ___
@@ -66,9 +71,14 @@ ___
 ___
 * [vBulletin <= 5.5.2 (movepm) PHP Object Injection Vulnerability](https://karmainsecurity.com/pocs/vbulletin-movepm-poi.php)
 
+### Powershell
+___
+* [Nishang - Offensive PowerShell for red team, penetration testing and offensive security.](https://github.com/samratashok/nishang)
+
 ### Reporting tool
 ___
 * [WriteHat is a reporting tool which removes Microsoft Word](https://github.com/blacklanternsecurity/writehat)
+* [Prevent merging of malicious code in pull requests](https://github.com/apiiro/PRevent)
 
 ### SAST
 ___
@@ -93,9 +103,14 @@ ___
 
 ### SQL
 ___
+* [Advanced-SQL-Injection-Cheatsheet](https://github.com/kleiton0x00/Advanced-SQL-Injection-Cheatsheet)
 * [Blind SQL injection](https://github.com/CiscoCXSecurity/bbqsql)
 * [Framework for blind boolean-based sql injections exploatation. Use it if sqlmap does shit.](https://github.com/sorokinpf/sqli_blinder?utm_source=hivefive&utm_medium=email)
 * [SQLi tips](sqli-tips)
+
+### Stream
+___
+* [View HTTP/HTTPS requests made by any Linux program - stream](https://github.com/monasticacademy/httptap)
 
 ### Terminal
 ___
@@ -104,6 +119,10 @@ ___
 ### Windows
 ___
 * [Windows-Privilege-Escalation](https://github.com/Ignitetechnologies/Windows-Privilege-Escalation)
+
+### XML
+___
+* [Exploiting the xmlrpc.php](https://github.com/rm-onata/xmlrpc-attack)
 
 ### Others
 ___

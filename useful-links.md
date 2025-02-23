@@ -10,6 +10,7 @@
 ### All in one
 ___
 * [whitebox pentesting tech techniques](https://github.com/0xmaximus/Galaxy-Bugbounty-Checklist)
+* [A Tour of WebAuthn - FIDO, Passkey](https://www.imperialviolet.org/tourofwebauthn/tourofwebauthn.html)
 
 ### AWS
 ___
@@ -74,9 +75,17 @@ ___
 * [Kubernetes basics](https://book.hacktricks.xyz/cloud-security/pentesting-kubernetes/kubernetes-basics)
 * [Kubernetes Hardening Guidance](https://media.defense.gov/2021/Aug/03/2002820425/-1/-1/0/CTR_Kubernetes_Hardening_Guidance_1.1_20220315.PDF)
 
+### MacOS
+___
+* [Install macOS on ANY Computer! This is really and magic easiest way!](https://github.com/luchina-gabriel/OSX-PROXMOX)
+
 ### Metasploit
 ___
 * [Vulnerability scanning with metasploit](https://medium.com/@dr.anhkwar/vulnerability-scanning-with-metasploit-6db1f95157b9)
+
+### Neovim
+___
+* [Become a (Neo)vim pro. Boost your productivity with tips on navigation, text manipulation, Telescope, marks, snippets, and custom plugins](https://www.youtube.com/watch?v=LaIa1tQFOSY)
 
 ### Oauth
 ___
@@ -117,4 +126,4 @@ ___
 * [Pass-the-Challenge: Defeating Windows Defender Credential Guard](https://research.ifcr.dk/pass-the-challenge-defeating-windows-defender-credential-guard-31a892eee22)
 * [Windows-Privilege-Escalation](https://github.com/Ignitetechnologies/Windows-Privilege-Escalation)
 * [Stage, But Verify | simple shellcode injector to test our stager against Defender](https://hulkops.gitbook.io/blog/red-team/stage-but-verify)
-* 
+

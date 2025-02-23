@@ -23,6 +23,7 @@
 # misc and productivity articles:
 
 * ['Brain rot' is Oxford word of the year — Top 10 tips to avoid it](https://www.reddit.com/r/selfimprovement/comments/1h6sjmk/brain_rot_is_oxford_word_of_the_year_top_10_tips/)
+* [Creating a highly-integrated open-source laptop from scratch. Power in your hands.](https://www.byran.ee/posts/creation/)
 
 ### CI/CD
 ___
@@ -50,14 +51,17 @@ ___
 ---
 * [Reverse Engineering Call Of Duty Anti-Cheat](https://ssno.cc/posts/reversing-tac-1-4-2025/)
 
+### Supply Chain
+
+* [How We Hacked a Software Supply Chain for $50K](https://www.landh.tech/blog/20250211-hack-supply-chain-for-50k/)
+
 ### WebApp
 ___
 * [How To Hack Web Applications in 2022: Part 1](https://labs.detectify.com/2022/05/16/how-to-hack-web-applications/)
 * [How To Hack Web Applications in 2022: Part 2](https://labs.detectify.com/2022/08/05/how-to-hack-web-applications-in-2022/)
 * [How we have pwned Root-Me in 2022 | Adminke](https://spawnzii.github.io/posts/2022/07/how-we-have-pwned-root-me-in-2022/)
 * [Top 10 web hacking techniques of 2022](https://portswigger.net/research/top-10-web-hacking-techniques-of-2022)
-
-### Other
----
-* [Creating a highly-integrated open-source laptop from scratch. Power in your hands.](https://www.byran.ee/posts/creation/)
+* [Exploring the DOMPurify library: Hunting for Misconfigurations](https://mizu.re/post/exploring-the-dompurify-library-hunting-for-misconfigurations)
+* [What Okta Bcrypt incident can teach us about designing better APIs]()
 * [My team's intern just found a critical bug by shitposting in our codebase](https://www.reddit.com/r/csMajors/comments/1i7v7hg/my_teams_intern_just_found_a_critical_bug_by/)
+* [Nginx/Apache Path Confusion to Auth Bypass in PAN-OS (CVE-2025-0108)](https://slcyber.io/blog/nginx-apache-path-confusion-to-auth-bypass-in-pan-os)

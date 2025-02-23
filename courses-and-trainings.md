@@ -34,6 +34,10 @@ ___
 ___ 
 ![image](https://github.com/Lzmog/appsec-wiki/blob/main/images/htb-tree.png?raw=true)
 
+### SQL
+___
+* [Master detective with SQL Noir - a crime-solving SQL game that puts your SQL skills to the test](https://www.sqlnoir.com/)
+
 ### Kubernetes
 ___
 * [kCTF is a Kubernetes-based infrastructure for CTF competitions](https://github.com/google/kctf)

@@ -56,4 +56,5 @@ ___
 
 # Useful
 * [Taking notes with obsidian basics](https://www.youtube.com/watch?v=d3e7GWsqoU0)
+* [Search engine for CTF writeups with instant results.](https://github.com/sarperavci/ctf-writeups-search/)
 
